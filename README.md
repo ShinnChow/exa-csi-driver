@@ -5,6 +5,7 @@ Releases can be found here - https://github.com/DDNStorage/exa-csi-driver/releas
 ## Compatibility matrix
 |CSI driver version|EXAScaler client version|EXA Scaler server version|
 |--- |---|---|
+|>=2.8.1|>=2.14.0-ddn252|>=6.3.7|
 |>=2.7.0|>=2.14.0-ddn235|>=6.3.5|
 |2.3.0 to 2.6.0|>=2.14.0-ddn182|6.3.2 to 6.3.4|
 
@@ -39,6 +40,7 @@ Releases can be found here - https://github.com/DDNStorage/exa-csi-driver/releas
 |v4.14|>=v2.2.4|
 |v4.15|>=v2.2.4|
 |v4.19|>=v2.6.0|
+|v4.20|>=v2.8.1|
 
 ## OpenShift
 ### Prerequisites
