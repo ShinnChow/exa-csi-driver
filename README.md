@@ -690,7 +690,7 @@ kubectl apply -f examples/nginx-from-snapshot.yaml
 
 Exascaler CSI driver supports 2 snapshot modes: `tar` or `dtar`.
 Note: Both modes consume large amounts of memory for large snapshots, so configure the driver limits accordingly.
-Default mode is `dtar`.
+Default mode is `tar`.
 
 ### Encryption
 Limitations:
